@@ -10,7 +10,7 @@
 ## Usage
 
 ```bash
-$ npx preact-cli create typescript my-project
+$ npx preact-cli create freddiemixell/typescript-tailwind my-project
 $ cd my-project
 $ npm install
 $ npm run dev
